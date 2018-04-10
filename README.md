@@ -8,11 +8,17 @@ Processo de criação do certificado digital e assinatura do Executável da empr
 2.  Informações do certificado
 
 > Country Name (2 letter code) [AU]:**BR**
+>
 > State or Province Name (full name) [Some-State]:**Rio Grande do Sul**
+>
 > Locality Name (eg, city) []:**My City**
+>
 > Organization Name (eg, company) [Internet Widgits Pty Ltd]:**My Company**
+>
 > Organizational Unit Name (eg, section) []:**I.T.**
+>
 > Common Name (e.g. server FQDN or YOUR name) []:**mydomain.com**
+>
 > Email Address []:**user@home.com**
 
 3.  Criando o arquivo PFX
