@@ -4,7 +4,7 @@ Processo de criação do certificado digital e assinatura do Executável da empr
 # Criação do certificado Digital
 `openssl req -x509 -days 365 -newkey rsa:2048 -keyout my-key.pem -out my-cert.pem`
 
-##
+## Informações do certificado
 `Generating a 2048 bit RSA private key
 .....................+++
 .............................................+++
